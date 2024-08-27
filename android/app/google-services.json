@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881915097382",
+    "project_id": "marwan-f8748",
+    "storage_bucket": "marwan-f8748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881915097382:android:069eda6597bf84617b11e7",
+        "android_client_info": {
+          "package_name": "com.example.tasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhIkNz_V7faseR0v_33MTYTtbBpHPwpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
